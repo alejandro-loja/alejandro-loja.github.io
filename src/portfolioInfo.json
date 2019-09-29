@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Crystal Collector Game",
+        "image": "assets/images/Crystal_Collector_Game.png",
+        "desc": "",
+        "github": "https://github.com/alejandro-loja/unit-4-game",
+        "website": "https://alejandro-loja.github.io/Crystal-Collector-Game/"
+    },
+    {
+        "title": "Nintendo Trivia Game",
+        "image": "assets/images/Nintendo_Trivia_Game.png",
+        "desc": "",
+        "github": "https://github.com/alejandro-loja/TriviaGame",
+        "website": "https://alejandro-loja.github.io/TriviaGame/"
+    },
+    {
+        "title": "Giphy Search",
+        "image": "assets/images/GifTastic.png",
+        "desc": "",
+        "github": "https://github.com/alejandro-loja/GifTastic",
+        "website": "https://alejandro-loja.github.io/GifTastic/"
+    },
+    {
+        "title": "Eat-Da-Burger",
+        "image": "assets/images/burgerapp.png",
+        "desc": "",
+        "github": "https://github.com/alejandro-loja/Eat-Da-Burger",
+        "website": "https://polar-oasis-24673.herokuapp.com/"
+    },
+    {
+        "title": "Chat App",
+        "image": "assets/images/chatapp-p2.png",
+        "desc": "",
+        "github": "https://github.com/meilik/chatroom_app",
+        "website": "https://still-reef-20152.herokuapp.com/"
+    },
+    {
+        "title": "CNET News Scraper",
+        "image": "assets/images/cnet-newsscraper.png",
+        "desc": "",
+        "github": "https://github.com/alejandro-loja/NewsScraper",
+        "website": "https://thawing-meadow-29191.herokuapp.com/"
+    },
+    {
+        "title": "Super Smash Clicky Game",
+        "image": "assets/images/clickygame.png",
+        "desc": "",
+        "github": "https://github.com/alejandro-loja/clicky-game",
+        "website": "https://shielded-sands-43518.herokuapp.com/"
+    },
+    {
+        "title": "Google Books Search",
+        "image": "assets/images/react-google-books.png",
+        "desc": "",
+        "github": "https://github.com/alejandro-loja/react-search",
+        "website": "https://pure-scrubland-16198.herokuapp.com/"
+    },
+    {
+        "title": "Trip Pal",
+        "image": "assets/images/tp_home_page.png",
+        "desc": "",
+        "github": "https://github.com/agatha12/Travel-App",
+        "website": "https://boiling-sea-88261.herokuapp.com/photoAlbum"
+    }
+]
